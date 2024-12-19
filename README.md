@@ -15,6 +15,8 @@ Bộ dữ liệu gồm thông tin từ [airbnb-usa-ny-newyork](https://huggingfa
 - neighbourhoods.csv - Dữ liệu về khu vực
 - neighbourhoods.geojson - Dữ liệu địa lý về khu vực
 
+Nguồn dữ liệu: [Hugging Face Datasets](https://huggingface.co/datasets/michaelmallari/airbnb-usa-ny-newyork)
+
 ## Quy trình xử lý
 
 ### 1. Tiền xử lý dữ liệu ([data_preprocessing/data_preprocessing.ipynb](data_preprocessing/data_preprocessing.ipynb))
